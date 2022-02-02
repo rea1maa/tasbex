@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    font-family: 'Dancing Script', cursive;
+}
+
+body{
+    background:url(https://png.pngtree.com/thumb_back/fw800/background/20190718/pngtree-islamic-ramadhan-background-image_284340.jpg);
+    font-family: 'Dancing Script', cursive;
+}
+
+.tasbex{
+    text-align: center;
+    line-height: 5rem;
+    max-width: 448px;
+    margin: auto;
+    margin-top: 1rem;
+    font-size: 2rem;
+    font-weight: 100;
+    color: rgb(233, 224, 224);
+}
+
+#btn{
+    padding: 1rem 5rem;
+    font-size: 1.5rem;
+    font-weight: 300;
+    
+    border: none;
+    border-radius: 23px;
+    box-shadow: 5px 5px 5px;
+    cursor: pointer;
+    color:rgb(14, 18, 235);
+}
+input{
+    text-align: center;
+        font-size: 1.5rem;
+        font-weight: 300;
+        
+        border: none;
+        border-radius: 23px;
+        box-shadow: 5px 5px 5px;
+        cursor: pointer;
+        color:rgb(12, 12, 12);
+        background-color: cyan;
+    
+}
+h1{
+    color: cornflowerblue;
+}
+h4{
+    color: aquamarine;
+}
+/* h2{
+    text-align: center;
+    margin-top: 2rem;
+    margin-right: 3rem;
+    font-size: 2rem;
+}
+
+h3{
+    text-align: right;
+    margin-top: 1rem;
+    margin-right: 5rem;
+    font-size: 1.5rem;
+}
+
+h4{
+    display: none;
+}
+
+.author{
+    position: relative;
+    top: 0;
+} */
